@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          <button className="btn btn-primary"><i className="fa-solid fa-skull-crossbones"></i></button>
         </a>
       </header>
     </div>
