@@ -1,7 +1,7 @@
 import express from "express";
 import cors from 'cors';
 //Importando la conexión a la base de datos
-import db from "./database/db";
+import db from "./database/db.js";
 //Importando las routas
 import blogRoutes from "./routes/routes.js";
 
